@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tczasiasrilankatimeconverter/static/css/main.7fa58388.css",
+    "main.js": "/tczasiasrilankatimeconverter/static/js/main.a5580b6c.js",
+    "static/js/453.0b520f35.chunk.js": "/tczasiasrilankatimeconverter/static/js/453.0b520f35.chunk.js",
+    "static/media/logo.png": "/tczasiasrilankatimeconverter/static/media/logo.97e3e86d645c0c7e3b68.png",
+    "index.html": "/tczasiasrilankatimeconverter/index.html",
+    "main.7fa58388.css.map": "/tczasiasrilankatimeconverter/static/css/main.7fa58388.css.map",
+    "main.a5580b6c.js.map": "/tczasiasrilankatimeconverter/static/js/main.a5580b6c.js.map",
+    "453.0b520f35.chunk.js.map": "/tczasiasrilankatimeconverter/static/js/453.0b520f35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa58388.css",
+    "static/js/main.a5580b6c.js"
+  ]
+}
